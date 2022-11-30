@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction
 
 This is a poorly written application, and we're expecting the candidate to greatly improve this code base.
@@ -28,6 +27,5 @@ This is a poorly written application, and we're expecting the candidate to great
   * Any movies showing on 7th, you'll get 1$ discount
   * The discount amount applied only one if met multiple rules; biggest amount one
 * We want to print the movie schedule with simple text & json format
-=======
-# Testing-repo2
->>>>>>> 51600db6a4b8fbc06bdb00a9105a0e65745a0f1c
+
+
